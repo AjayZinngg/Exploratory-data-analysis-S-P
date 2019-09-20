@@ -1,0 +1,15 @@
+for tsa analysis
+
+https://medium.com/@jdwittenauer/a-simple-time-series-analysis-of-the-s-p-500-index-b12ffdb13cd6
+
+
+for linear prediction 
+
+https://www.kaggle.com/dkmostafa/predicting-stock-market-using-linear-regression
+
+to understand the order of arima model
+
+https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+
+
+https://discuss.analyticsvidhya.com/t/predict-future-values-time-series-using-arima/10588
